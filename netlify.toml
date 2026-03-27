@@ -1,6 +1,6 @@
 [build]
   base    = "artifacts/warriors-fitness"
-  command = "npm install -g pnpm && pnpm install --no-frozen-lockfile && BASE_PATH=/ pnpm run build"
+  command = "pnpm install --no-frozen-lockfile && BASE_PATH=/ pnpm run build"
   publish = "dist/public"
 
 [build.environment]
