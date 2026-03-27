@@ -227,17 +227,17 @@ export default function Home() {
         
         <div className="relative z-10 max-w-4xl mx-auto px-4 text-center">
           <h2 className="text-5xl md:text-7xl font-black text-white font-display uppercase tracking-tight mb-6">
-            Ready to <span className="text-black text-shadow-none">Start?</span>
+            Ready to <span className="text-primary">Start?</span>
           </h2>
           <p className="text-xl text-white/90 mb-10 max-w-2xl mx-auto font-medium">
             Join Perungudi's most elite fitness community today. Your first workout is on us.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/membership">
-              <Button size="xl" variant="white" className="w-full sm:w-auto">View Pricing</Button>
+              <Button size="xl" variant="white" className="w-full sm:w-auto hover:!bg-primary hover:!text-white hover:!border-primary transition-colors duration-300" isSkewed={false}>View Pricing</Button>
             </Link>
             <Link href="/contact">
-              <Button size="xl" variant="outline" className="w-full sm:w-auto border-white text-white hover:bg-white hover:text-black hover:border-white">
+              <Button size="xl" variant="outline" className="w-full sm:w-auto border-white text-white hover:bg-white hover:text-black hover:border-white" isSkewed={false}>
                 Contact Us
               </Button>
             </Link>
