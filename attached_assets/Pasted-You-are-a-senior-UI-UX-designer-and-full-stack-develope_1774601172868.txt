@@ -1,0 +1,288 @@
+You are a senior UI/UX designer and full-stack developer.
+
+Build a bold, energetic, and high-conversion fitness website for:
+
+🏋️ Warriors Fitness Center 🏋️
+
+
+-----------------------------------
+
+🎯 GOAL:
+
+Create a powerful gym website that:
+
+- Attracts new members
+- Builds trust through reviews & results
+- Highlights trainers & transformation
+- Drives sign-ups and calls
+
+Focus on:
+- Energy & motivation
+- Strong brand identity
+- Community feel
+- Lead generation
+
+
+-----------------------------------
+
+🎨 DESIGN STYLE:
+
+Theme:
+- Fitness + aggressive + modern
+
+Color Palette:
+- Primary: Black (#0B0B0B)
+- Accent: Red (#E53935)
+- Secondary: White (#FFFFFF)
+- Optional: Neon green (#00E676)
+
+UI Feel:
+- Bold & intense
+- High energy
+- Clean but powerful
+- Gym/athlete vibe
+
+
+-----------------------------------
+
+🖼️ VISUAL DESIGN:
+
+- Real workout photos
+- Trainers & transformation shots
+- Dark background with highlights
+- Strong typography (bold fonts)
+- Minimal but impactful icons
+
+NO:
+- Soft pastel colors
+- Corporate boring layouts
+
+
+-----------------------------------
+
+📄 PAGES:
+
+Home | About | Programs | Trainers | Transformations | Membership | Contact
+
+
+-----------------------------------
+
+🏠 HOME PAGE:
+
+1. HERO SECTION:
+
+- Background: Intense workout / gym action
+- Title:
+  “Train Like a Warrior. Transform Your Body.”
+
+- Subtitle:
+  “Top-Rated Gym in Perungudi with Expert Trainers & Affordable Plans”
+
+- CTA:
+  - “Join Now”
+  - “Call Now”
+
+- Add strong fade + zoom animation
+
+
+-----------------------------------
+
+2. TRUST SECTION:
+
+Highlight:
+
+- 4.9 ⭐ Rating (400+ Reviews)
+- Experienced Trainers
+- Affordable Pricing
+- Friendly & Motivating Environment
+
+-----------------------------------
+
+3. PROGRAMS SECTION:
+
+Card layout:
+
+- Strength Training
+- Weight Loss Programs
+- Zumba Classes
+- Personal Training
+- Online Coaching
+
+Hover:
+- lift + glow
+
+-----------------------------------
+
+4. WHY CHOOSE US:
+
+- Clean & modern equipment
+- Friendly atmosphere
+- Best trainers guidance
+- Budget-friendly membership
+
+-----------------------------------
+
+5. TRANSFORMATION SECTION:
+
+- Before / After photos
+- Member success stories
+
+Headline:
+“Real Results from Real Members”
+
+-----------------------------------
+
+6. TRAINERS SECTION:
+
+- Highlight trainers
+- Add name + expertise
+
+-----------------------------------
+
+7. TESTIMONIALS:
+
+- Real reviews
+
+Examples:
+- “Friendly environment”
+- “Best trainer and lowest price”
+- “Clean equipment and motivating atmosphere”
+
+Carousel slider
+
+
+-----------------------------------
+
+8. CTA SECTION:
+
+“Start Your Fitness Journey Today”
+
+Buttons:
+- “Join Now”
+- “Get Free Trial”
+
+-----------------------------------
+
+📘 ABOUT PAGE:
+
+Content:
+
+“Warriors Fitness Center is a top-rated gym in Perungudi known for its motivating environment, expert trainers, and affordable fitness programs. The gym focuses on helping individuals achieve real fitness results through proper guidance and consistent training.”
+
+Add:
+- Gym mission
+- Trainer experience
+- Community vibe
+
+
+-----------------------------------
+
+🏋️ PROGRAMS PAGE:
+
+Detailed sections:
+
+1. Weight Loss  
+2. Muscle Gain  
+3. Zumba  
+4. Personal Training  
+5. Online Coaching  
+
+-----------------------------------
+
+👨‍🏫 TRAINERS PAGE:
+
+- Trainer profiles
+- Experience
+- Specializations
+
+-----------------------------------
+
+🔥 TRANSFORMATIONS PAGE:
+
+- Before/after gallery
+- Real client stories
+
+-----------------------------------
+
+💰 MEMBERSHIP PAGE:
+
+- Pricing plans
+- Monthly / quarterly options
+- Clear simple layout
+
+-----------------------------------
+
+📞 CONTACT PAGE:
+
+Address:
+Perungudi, Chennai – 600096
+
+Include:
+
+- Call button (important)
+- WhatsApp button
+- Google Map
+- Enquiry form
+
+Fields:
+- Name
+- Phone
+- Fitness Goal
+
+-----------------------------------
+
+✨ ANIMATIONS:
+
+- Smooth scroll reveal
+- Hover glow effects
+- Subtle motion transitions
+
+-----------------------------------
+
+📱 RESPONSIVE:
+
+- Mobile-first
+- Easy join buttons
+- Sticky CTA
+
+-----------------------------------
+
+⚙️ TECH STACK:
+
+Frontend:
+- Next.js + Tailwind CSS
+
+Animations:
+- Framer Motion
+
+-----------------------------------
+
+💡 EXTRA FEATURES:
+
+- Sticky navbar
+- Floating WhatsApp button
+- “Join Now” quick form
+- Free trial popup
+- Instagram feed integration
+
+-----------------------------------
+
+⚠️ IMPORTANT:
+
+- Keep energy HIGH
+- Focus on motivation & results
+- Highlight reviews strongly
+- Avoid dull or boring UI
+
+-----------------------------------
+
+🎯 FINAL GOAL:
+
+Make users feel:
+
+- “This gym will transform me”
+- “Trainers are really good”
+- “Affordable and worth it”
+
+Drive action:
+👉 Join now or call immediately

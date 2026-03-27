@@ -1,0 +1,15 @@
+packages:
+  "framer-motion": "For high-quality page transitions and scroll-triggered animations in the fitness site"
+  "react-hook-form": "For robust contact and free trial forms"
+  "@hookform/resolvers": "Zod validation for forms"
+  "clsx": "Utility for conditional tailwind classes"
+  "tailwind-merge": "Utility for tailwind classes"
+
+images:
+  - path: "artifacts/warriors-fitness/public/images/logo.png"
+    description: "A bold, aggressive logo mark for a gym called 'Warriors Fitness'. Red and dark gray/white. Shield or spartan helmet motif, modern, minimalist, on a transparent background."
+    aspect_ratio: "1:1"
+
+notes:
+  - "Since this is requested as a pure frontend static website without a real backend, all APIs are mocked with simulated delays using React Query."
+  - "Using Lucide React for iconography."
