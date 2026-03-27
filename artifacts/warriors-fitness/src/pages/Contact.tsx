@@ -71,14 +71,23 @@ export default function Contact() {
                 <label className="text-sm font-medium text-gray-300">Primary Goal <span className="text-primary">*</span></label>
                 <select 
                   {...register("goal")}
-                  className="w-full bg-white/5 border border-white/10 rounded-lg px-4 py-3 text-white focus:outline-none focus:border-primary focus:ring-1 focus:ring-primary transition-all appearance-none"
-                  style={{ backgroundImage: `url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='white' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e")`, backgroundRepeat: 'no-repeat', backgroundPosition: 'right 1rem center', backgroundSize: '1em' }}
+                  className="w-full border border-white/10 rounded-lg px-4 py-3 text-white focus:outline-none focus:border-primary focus:ring-1 focus:ring-primary transition-all appearance-none cursor-pointer"
+                  style={{
+                    backgroundColor: '#1a1a1a',
+                    backgroundImage: `url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23E53935' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e")`,
+                    backgroundRepeat: 'no-repeat',
+                    backgroundPosition: 'right 1rem center',
+                    backgroundSize: '1.1em',
+                    colorScheme: 'dark'
+                  }}
                 >
-                  <option value="" className="bg-card text-white">Select a goal</option>
-                  <option value="Weight Loss" className="bg-card text-white">Weight Loss</option>
-                  <option value="Muscle Gain" className="bg-card text-white">Muscle Gain</option>
-                  <option value="General Fitness" className="bg-card text-white">General Fitness</option>
-                  <option value="Personal Training" className="bg-card text-white">Personal Training</option>
+                  <option value="" style={{ backgroundColor: '#1a1a1a', color: '#9ca3af' }}>Select a goal</option>
+                  <option value="Weight Loss" style={{ backgroundColor: '#1a1a1a', color: '#ffffff' }}>Weight Loss</option>
+                  <option value="Muscle Gain" style={{ backgroundColor: '#1a1a1a', color: '#ffffff' }}>Muscle Gain</option>
+                  <option value="General Fitness" style={{ backgroundColor: '#1a1a1a', color: '#ffffff' }}>General Fitness</option>
+                  <option value="Personal Training" style={{ backgroundColor: '#1a1a1a', color: '#ffffff' }}>Personal Training</option>
+                  <option value="Zumba Classes" style={{ backgroundColor: '#1a1a1a', color: '#ffffff' }}>Zumba Classes</option>
+                  <option value="Online Coaching" style={{ backgroundColor: '#1a1a1a', color: '#ffffff' }}>Online Coaching</option>
                 </select>
                 {errors.goal && <p className="text-primary text-xs">{errors.goal.message}</p>}
               </div>

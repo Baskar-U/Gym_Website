@@ -237,7 +237,7 @@ export default function Home() {
               <Button size="xl" variant="white" className="w-full sm:w-auto">View Pricing</Button>
             </Link>
             <Link href="/contact">
-              <Button size="xl" variant="outline" className="w-full sm:w-auto border-black text-black hover:bg-black hover:text-white hover:border-black">
+              <Button size="xl" variant="outline" className="w-full sm:w-auto border-white text-white hover:bg-white hover:text-black hover:border-white">
                 Contact Us
               </Button>
             </Link>
