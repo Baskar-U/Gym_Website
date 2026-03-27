@@ -227,7 +227,7 @@ export default function Home() {
         
         <div className="relative z-10 max-w-4xl mx-auto px-4 text-center">
           <h2 className="text-5xl md:text-7xl font-black text-white font-display uppercase tracking-tight mb-6">
-            Ready to <span className="text-red text-shadow-none">Start?</span>
+            Ready to <span className="text-primary text-shadow-none">Start?</span>
           </h2>
           <p className="text-xl text-white/90 mb-10 max-w-2xl mx-auto font-medium">
             Join Perungudi's most elite fitness community today. Your first workout is on us.
